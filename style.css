@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #00ff4848;
+}
+
+#projects {
+  background-color: #00ff4848;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+@media (max-width: 576px) {
+  html {
+    font-size: 65%;
+  }
+}
